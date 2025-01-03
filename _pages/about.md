@@ -32,9 +32,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 教育经历
-- *2024.09 - 今*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/NUS_logo.svg" width="23pt"></a> 新加坡国立大学，计算学院，新加坡，CSC博士 
-- *2022.06 - 今*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/ECNU_logo.svg" width="23pt"></a> 华东师范大学，计算机科学与技术学院，上海，博士 
-- *2015.09 - 2022.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/NCUT_logo.svg" width="20pt"></a> 北方工业大学，电气与控制工程学院，北京，本硕
+- *2024.09 - 今*, <a href="https://www.hust.edu.cn/"><img class="png" src="/images/NUS_logo.svg" width="23pt"></a> 新加坡国立大学，计算学院，新加坡，CSC博士 
+- *2022.06 - 今*, <a href="https://www.hust.edu.cn/"><img class="png" src="/images/ECNU_logo.svg" width="23pt"></a> 华东师范大学，计算机科学与技术学院，上海，博士 
+- *2015.09 - 2022.06*, <a href="https://www.scu.edu.cn/"><img class="png" src="/images/NCUT_logo.svg" width="20pt"></a> 北方工业大学，电气与控制工程学院，北京，本硕
  
 <span class='anchor' id='-lwzl'></span>
 
