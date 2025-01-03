@@ -52,7 +52,7 @@ redirect_from:
 </div>
 
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. EduDCM: A Novel Framework for Automatic Educational Dialogue Classification Dataset Construction via Distant Supervision and Large Language Models. *Applied Sciences*. 2024. 
+- Changyong Qi, Longwei Zheng, `Yuang Wei`, Haoxin Xu, Peiji Chen, Xiaoqing Gu. EduDCM: A Novel Framework for Automatic Educational Dialogue Classification Dataset Construction via Distant Supervision and Large Language Models. *Applied Sciences*. 2024. 
 [[网页]](https://dx.doi.org/10.3390/app15010154) [[预览]](https://github.com/) [[下载]](/pdf/)
 
 
