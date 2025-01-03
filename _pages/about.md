@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于中国上海的 华东师范大学 计算机科学与技术学院，我的导师是江波教授。包括合著，我已经发表 xx+ 篇学术论文
+我将博士毕业于中国上海的**华东师范大学**计算机科学与技术学院智能教育专业，我的导师是**江波**教授。目前我已发表 xx+ 篇学术论文
  <a href='https://scholar.google.com.hk/citations?user=jjXw5-4AAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
@@ -32,8 +32,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 教育经历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2024.09 - 今*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 新加坡国立大学 计算学院, 新加坡, CSC博士 
+- *2022.06 - 今*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华东师范大学 计算机科学与技术学院, 上海, 博士 
+- *2015.09 - 2022.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 北方工业大学 电气与控制工程学院, 北京, 本硕
  
 <span class='anchor' id='-lwzl'></span>
 
