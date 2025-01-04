@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuang Wei"
-description              : "AI for Education"
+title                    : "魏雨昂"
+description              : "发展有温度的智能教育"
 url                      : "https://philrainv.github.io"
 baseurl                  : ""  # 主域名仓库应为空
 repository               : "philrainv/philrainv.github.io"
@@ -23,10 +23,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuang Wei"
+  name             : "魏雨昂"
   avatar           : "images/yuangwei.jpg"
-  bio              : "East China Normal University"
-  location         : "Shanghai"
+  bio              : "华东师范大学"
+  location         : "上海"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=jjXw5-4AAAAJ&hl=zh-CN&oi=ao"
