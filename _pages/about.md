@@ -29,14 +29,14 @@ redirect_from:
   
 
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='xl'></span>
 
 # 🎓 教育经历
 - *2024.09 - 今*, <a href="https://ubiquitous.comp.nus.edu.sg/"><img class="png" src="/images/NUS_logo.png" width="23pt"></a> 新加坡国立大学，计算学院（人机交互），新加坡，CSC博士 
 - *2022.06 - 今*, <a href="https://aiedu.ecnu.edu.cn/"><img class="png" src="/images/ECNU_logo.png" width="23pt"></a> 华东师范大学，计算机科学与技术学院（智能教育），上海，博士 
 - *2015.09 - 2022.06*, <a href="https://dqgc.ncut.edu.cn/"><img class="png" src="/images/NCUT_logo.png" width="20pt"></a> 北方工业大学，电气与控制工程学院（自动化、控制科学与工程），北京，本硕
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='lwzl'></span>
 
 # 📝 期刊论文
 
@@ -94,7 +94,7 @@ redirect_from:
 
 
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='ryjx'></span>
 
 # 🏅 荣誉奖项
 - *2024* “创青春”中国青年创新创业大赛（科技创新）  `全国铜奖`
@@ -105,7 +105,7 @@ redirect_from:
 - *2018* 国家励志奖学金
 - *2017* 西门子工业智能挑战赛（工业互联网）  `全国一等奖`
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='xshy'></span>
 
 # 🏛️ 学术会议
 - Yuan-Hao Jiang, Ruijia Li, `Yuang Wei`, Rui Jia, Xiaobao Shao, Hanglei Hu, Bo Jiang. Synchronizing Verbal Responses and Board Writing for Multimodal Math Instruction with LLMs. *The 4th Workshop on Mathematical Reasoning and AI at NeurIPS'24*. 2024
@@ -113,7 +113,7 @@ redirect_from:
 - `Wei Yuang`，Xu Jining，Zhang Zehua，Li Zhijun. A Review of the Research on the Prediction of Learning Outcomes in the Field of Learning Analytics, *The 5th International Conference on Education and Multimedia Technology (ICEMT)*, 2021.
 
 
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='gzsx'></span>
 
 # 💻 工作实习
 - *2023.12 - 2024.05*, Nova Science Publish，NewYork, US，特邀编辑
