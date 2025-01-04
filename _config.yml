@@ -12,51 +12,51 @@ repository               : "philrainv/philrainv.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      : "" # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification : fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  : "" # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name             : "Yuang Wei"
-  avatar           : "images/weiyuang.jpg"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "East China Normal University"
   location         : "Shanghai"
-  employer         : ""
-  pubmed           : ""
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=jjXw5-4AAAAJ&hl=zh-CN&oi=ao"
-  email            : "philrain@foxmail.com","yuangwei@u.nus.edu"
+  email            : "philrain@foxmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yuang-Wei"
-  uri              : ""
-  bitbucket        : ""
-  codepen          : ""
-  dribbble         : ""
-  flickr           : ""
-  facebook         : ""
-  foursquare       : ""
+  uri              : 
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
   github           : "https://github.com/PhilrainV"
-  google_plus      : ""
-  keybase          : ""
-  instagram        : ""
-  impactstory      : ""
-  lastfm           : ""
-  linkedin         : ""
-  dblp             : ""
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : 
+  lastfm           :
+  linkedin         : 
+  dblp             : 
   orcid            : "https://orcid.org/0000-0002-8187-4011"
-  pinterest        : ""
-  soundcloud       : ""
-  stackoverflow    : ""
-  steam            : ""
-  tumblr           : ""
-  twitter          : ""
-  vine             : ""
-  weibo            : ""
-  xing             : ""
-  youtube          : ""
-  wikipedia        : ""
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
