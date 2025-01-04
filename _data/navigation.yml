@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "简介"
-    url: "/#about-me"
+    url: "/zh-cn/#about-me"
 
   - title: "教育经历"
-    url: "/#-xl"
+    url: "/zh-cn/#-xl"
 
   - title: "论文专利"
     url: "/zh-cn/#-lwzl"
