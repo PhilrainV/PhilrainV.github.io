@@ -21,11 +21,7 @@ redirect_from:
  <a href='https://scholar.google.com.hk/citations?user=jjXw5-4AAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。担任期刊Education and information technologies，Information processing and management，Applied intelligence，会议NeurIPS，AAAI，KDD，ICASSP，AIED，EDM审稿人。如果您对我的研究有兴趣，请随时联系我！我们一起搞研究、发Paper！
 
 我的研究领域包括：
-- 智能教育
-- 因果模型
-- 知识追踪
-- 认知诊断
-- 大语言模型
+智能教育、因果模型、知识追踪、认知诊断、大语言模型
   
 
 
