@@ -42,7 +42,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TLT 2024</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yuang Wei`, Bo Jiang. Interpretable Cognitive State Prediction via Temporal Fuzzy Cognitive Map. *IEEE Transactions on Learning Technologies*, 2024. 
@@ -51,7 +51,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IP&M 2024</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Bo Jiang; `Yuang Wei(Corr. Author)`; Ting Zhang; Wei Zhang. Improving the performance and explainability of knowledge tracing via Markov blanket. *Information Processing & Management*, 2024. 
