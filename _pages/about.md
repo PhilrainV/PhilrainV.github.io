@@ -54,7 +54,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Bo Jiang; `Yuang Wei`*; Ting Zhang; Wei Zhang. Improving the performance and explainability of knowledge tracing via Markov blanket. *Information Processing & Management*, 2024. 
+-	Bo Jiang; `Yuang Wei(Corr. Author)`; Ting Zhang; Wei Zhang. Improving the performance and explainability of knowledge tracing via Markov blanket. *Information Processing & Management*, 2024. 
 [[网页]](https://doi.org/10.1016/j.ipm.2023.103620) [[预览]](https://github.com/) [[下载]](/pdf/)
 
 </div>
@@ -68,7 +68,7 @@ redirect_from:
 
 - Bo Jiang; `Yuang Wei`; Meijun Gu; Chengjiu Yin. Understanding students’ backtracking behaviors in digital textbooks: a data-driven perspective. *Interactive Learning Environments*. 2024. [[网页]](https://doi.org/10.1080/10494820.2023.2280964) [[预览]](https://github.com/) [[下载]](/pdf/)
 
-- TianYi Liu; Yuan-Hao Jiang; `Yuang Wei`*; Xun Wang; Shucheng Huang; Ling Dai. Educational Practices and Algorithmic Framework for Promoting Sustainable Development in Education by Identifying Real-World Learning Paths. *Sustainability*. 2024. [[网页]](https://doi.org/10.3390/su16166871) [[预览]](https://github.com/) [[下载]](/pdf/)
+- TianYi Liu; Yuan-Hao Jiang; `Yuang Wei(Co-Author)`; Xun Wang; Shucheng Huang; Ling Dai. Educational Practices and Algorithmic Framework for Promoting Sustainable Development in Education by Identifying Real-World Learning Paths. *Sustainability*. 2024. [[网页]](https://doi.org/10.3390/su16166871) [[预览]](https://github.com/) [[下载]](/pdf/)
 
 ### 中文
 ---
