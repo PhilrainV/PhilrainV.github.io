@@ -85,8 +85,8 @@ redirect_from:
 - 一种基于单参数项目反应理论模型的分级评价方法及装置, CN112862368A, 2021.
 
 ### 书
-- `Yuang Wei`. Gobal Artificial Intelligent Education Support Environment White Paper for K-12. 北京师范大学智慧学习研究院. 2021.
-- `Yuang Wei`, Changyong Qi, Yuan-Hao Jiang, Ling Dai. Enhancing Educational Practices: Strategies for Assessing and Improving Learning Outcomes. Nova Science Publishers, New York, US. 2024.
+- `Yuang Wei`. Gobal Artificial Intelligent Education Support Environment White Paper for K-12. 北京师范大学智慧学习研究院. 2021. [[下载]](https://github.com/PhilrainV/research-paper)
+- `Yuang Wei`, Changyong Qi, Yuan-Hao Jiang, Ling Dai. Enhancing Educational Practices: Strategies for Assessing and Improving Learning Outcomes. Nova Science Publishers, New York, US. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
 
 
 
@@ -104,7 +104,7 @@ redirect_from:
 <span class='anchor' id='xshy'></span>
 
 # 🏛️ 学术会议
-- Yuan-Hao Jiang, Ruijia Li, `Yuang Wei`, Rui Jia, Xiaobao Shao, Hanglei Hu, Bo Jiang. Synchronizing Verbal Responses and Board Writing for Multimodal Math Instruction with LLMs. *The 4th Workshop on Mathematical Reasoning and AI at NeurIPS'24*. 2024 [[下载]](https://github.com/PhilrainV/research-paper)
+- Yuan-Hao Jiang, Ruijia Li, `Yuang Wei`, Rui Jia, Xiaobao Shao, Hanglei Hu, Bo Jiang. Synchronizing Verbal Responses and Board Writing for Multimodal Math Instruction with LLMs. *The 4th Workshop on Mathematical Reasoning and AI at NeurIPS'24*. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
 - `Wei Yuang`，Yizhou Zhou，Yuan-Hao Jiang，Bo Jiang. Enhancing Explainability of Knowledge Learning Paths: Causal Knowledge Networks. *The 17th International Conference on Educational Data Mining (EDM)*. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
 - `Wei Yuang`，Xu Jining，Zhang Zehua，Li Zhijun. A Review of the Research on the Prediction of Learning Outcomes in the Field of Learning Analytics, *The 5th International Conference on Education and Multimedia Technology (ICEMT)*, 2021. [[下载]](https://github.com/PhilrainV/research-paper)
 
