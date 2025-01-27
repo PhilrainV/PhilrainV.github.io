@@ -40,6 +40,14 @@ redirect_from:
 
 ### 英文
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/TMATH.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+-	Changyong Qi; `Yuang Wei(Co-first authors)`. TMATH: A Dataset for Evaluating Large Language Models in Generating Educational Hints for Math Word Problems. *In Proceedings of the 31st International Conference on Computational Linguistics*, 2025. [[网页]](https://aclanthology.org/2025.coling-main.340/) [[下载]](https://github.com/PhilrainV/research-paper)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TLT 2024</div><img src='images/TLT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,11 +60,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IP&M 2024</div><img src='images/IPM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Bo Jiang; `Yuang Wei(Corr. Author)`; Ting Zhang; Wei Zhang. Improving the performance and explainability of knowledge tracing via Markov blanket. *Information Processing & Management*, 2024. 
+-	Bo Jiang; `Yuang Wei(Corr. Author)`. Improving the performance and explainability of knowledge tracing via Markov blanket. *Information Processing & Management*, 2024. 
 [[网页]](https://doi.org/10.1016/j.ipm.2023.103620) [[下载]](https://github.com/PhilrainV/research-paper)
 
 </div>
 </div>
+
+
 
 
 - Changyong Qi, Longwei Zheng, `Yuang Wei`, Haoxin Xu, Peiji Chen, Xiaoqing Gu. EduDCM: A Novel Framework for Automatic Educational Dialogue Classification Dataset Construction via Distant Supervision and Large Language Models. *Applied Sciences*. 2024. 
@@ -66,7 +76,7 @@ redirect_from:
 
 - Bo Jiang; `Yuang Wei`; Meijun Gu; Chengjiu Yin. Understanding students’ backtracking behaviors in digital textbooks: a data-driven perspective. *Interactive Learning Environments*. 2024. [[网页]](https://doi.org/10.1080/10494820.2023.2280964) [[下载]](https://github.com/PhilrainV/research-paper)
 
-- TianYi Liu; Yuan-Hao Jiang; `Yuang Wei(Co-Author)`; Xun Wang; Shucheng Huang; Ling Dai. Educational Practices and Algorithmic Framework for Promoting Sustainable Development in Education by Identifying Real-World Learning Paths. *Sustainability*. 2024. [[网页]](https://doi.org/10.3390/su16166871) [[下载]](https://github.com/PhilrainV/research-paper)
+- TianYi Liu; Yuan-Hao Jiang; `Yuang Wei(Co-first authors)`; Xun Wang; Shucheng Huang; Ling Dai. Educational Practices and Algorithmic Framework for Promoting Sustainable Development in Education by Identifying Real-World Learning Paths. *Sustainability*. 2024. [[网页]](https://doi.org/10.3390/su16166871) [[下载]](https://github.com/PhilrainV/research-paper)
 
 ### 中文
 ---
