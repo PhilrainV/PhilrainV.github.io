@@ -20,7 +20,7 @@ redirect_from:
 # 🔍 AI FOR EDUCATION！
 
 我将博士毕业于中国上海的**华东师范大学**计算机科学与技术学院智能教育专业，我的导师是**江波**教授。目前我正在进行一些非常有趣且有意义的智能教育研究，目前已发表 15+ 篇学术论文（包含合作）
- <a href='https://scholar.google.com.hk/citations?user=jjXw5-4AAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。担任期刊Education and information technologies，Information processing and management，IEEE Transactions on Emerging Topics in Computing，International Journal of Artificial Intelligence in Education，Applied intelligence，会议NeurIPS，AAAI，KDD，ICASSP，AIED，EDM审稿人。如果您对我的研究有兴趣，请随时联系我！我们一起搞研究、发Paper！
+ <a href='https://scholar.google.com.hk/citations?user=jjXw5-4AAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。担任期刊Education and information technologies，Information processing and management，IEEE Transactions on Emerging Topics in Computing，International Journal of Artificial Intelligence in Education，Knowledge-Based Systems，Applied intelligence，会议NeurIPS，AAAI，KDD，ICASSP，AIED，EDM审稿人。如果您对我的研究有兴趣，请随时联系我！我们一起搞研究、发Paper！
 
 我的研究领域包括：
 智能教育、因果模型、知识追踪、认知诊断、大语言模型
