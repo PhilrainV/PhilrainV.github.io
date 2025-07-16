@@ -30,10 +30,10 @@ redirect_from:
 <span class='anchor' id='xl'></span>
 
 # 🎓 教育经历
-- *2024.09 - 今*, <a href="https://ubiquitous.comp.nus.edu.sg/"><img class="png" src="/images/NUS_logo.png" width="23pt"></a> 新加坡国立大学，计算学院（人机交互），新加坡，CSC博士 
-- *2022.06 - 今*, <a href="https://aiedu.ecnu.edu.cn/"><img class="png" src="/images/ECNU_logo.png" width="23pt"></a> 华东师范大学，计算机科学与技术学院（智能教育），上海，博士 
-- *2015.09 - 2022.06*, <a href="https://dqgc.ncut.edu.cn/"><img class="png" src="/images/NCUT_logo.png" width="20pt"></a> 北方工业大学，电气与控制工程学院（自动化、控制科学与工程），北京，本硕
- 
+- *2024.09 - 今*, <a href="https://ubiquitous.comp.nus.edu.sg/"><img class="png" src="/images/NUS_logo.png" width="23pt"></a> 新加坡国立大学，计算学院（人机交互），新加坡，CSC博士 (导师: [[Brian Lim]](https://ubiquitous.comp.nus.edu.sg/))  
+- *2022.06 - 今*, <a href="https://aiedu.ecnu.edu.cn/"><img class="png" src="/images/ECNU_logo.png" width="23pt"></a> 华东师范大学，计算机科学与技术学院（智能教育），上海，博士 (导师: [[江波]](https://faculty.ecnu.edu.cn/_s8/jb2/main.psp))
+- *2015.09 - 2022.06*, <a href="https://dqgc.ncut.edu.cn/"><img class="png" src="/images/NCUT_logo.png" width="20pt"></a> 北方工业大学，电气与控制工程学院（自动化、控制科学与工程），北京，本硕 (导师: 徐继宁)
+
 <span class='anchor' id='lwzl'></span>
 
 # 📝 期刊论文
