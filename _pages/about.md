@@ -87,8 +87,9 @@ redirect_from:
 - 一种基于单参数项目反应理论模型的分级评价方法及装置, CN112862368A, 2021.
 
 ### 书
-- `Yuang Wei`. Gobal Artificial Intelligent Education Support Environment White Paper for K-12. 北京师范大学智慧学习研究院. 2021. [[下载]](https://github.com/PhilrainV/research-paper)
+- Bo Jiang, `Yuang Wei`. Toward Trustworthy Adaptive Learning: Explainable Learner Models. Taylor & Francis. 2025. [[下载]](http://doi.org/10.4324/9781003585176)
 - `Yuang Wei`, Changyong Qi, Yuan-Hao Jiang, Ling Dai. Enhancing Educational Practices: Strategies for Assessing and Improving Learning Outcomes. Nova Science Publishers, New York, US. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
+- `Yuang Wei`. Gobal Artificial Intelligent Education Support Environment White Paper for K-12. 北京师范大学智慧学习研究院. 2021. [[下载]](https://github.com/PhilrainV/research-paper)
 
 
 
