@@ -91,11 +91,13 @@ redirect_from:
 - 一种基于单参数项目反应理论模型的分级评价方法及装置, CN112862368A, 2021.
 
 ### 书
+---
 - Bo Jiang, `Yuang Wei`. Toward Trustworthy Adaptive Learning: Explainable Learner Models. Taylor & Francis. 2025. [[下载]](http://doi.org/10.4324/9781003585176)
 - `Yuang Wei`, Changyong Qi, Yuan-Hao Jiang, Ling Dai. Enhancing Educational Practices: Strategies for Assessing and Improving Learning Outcomes. Nova Science Publishers, New York, US. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
 - `Yuang Wei`. Gobal Artificial Intelligent Education Support Environment White Paper for K-12. 北京师范大学智慧学习研究院. 2021. [[下载]](https://github.com/PhilrainV/research-paper)
 
 ### 软件著作
+---
 - 跨模态数学习题讲解资源自动化生成平台，登记号：2025SR0248269
 - 大语言模型驱动的对话式数学教学软件，登记号：2025SR0248270
 - 基于大语言模型的智能代理驱动的人机对话协作学习平台，登记号：2024SR0764118
@@ -140,6 +142,7 @@ redirect_from:
 # 💻 工作实习
 - *2023.12 - 2024.05*, Nova Science Publish，NewYork, US，特邀编辑
 - *2021.06 - 2021.12*, 互联网教育智能技术及应用国家工程实验室, 北京，研究助理
+
 
 
 
