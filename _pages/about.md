@@ -23,7 +23,7 @@ redirect_from:
  <a href='https://scholar.google.com.hk/citations?user=jjXw5-4AAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。担任期刊Education and information technologies，Information processing and management，IEEE Transactions on Emerging Topics in Computing，International Journal of Artificial Intelligence in Education，Knowledge-Based Systems，Applied intelligence，会议NeurIPS，AAAI，KDD，ICASSP，AIED，EDM审稿人。如果您对我的研究有兴趣，请随时联系我！我们一起搞研究、发Paper！
 
 我的研究领域包括：
-智能教育、因果模型、知识追踪、认知诊断、大语言模型
+智能教育、可解释模型、因果模型、知识追踪、认知诊断、大语言模型
   
 
 
@@ -140,5 +140,6 @@ redirect_from:
 # 💻 工作实习
 - *2023.12 - 2024.05*, Nova Science Publish，NewYork, US，特邀编辑
 - *2021.06 - 2021.12*, 互联网教育智能技术及应用国家工程实验室, 北京，研究助理
+
 
 
