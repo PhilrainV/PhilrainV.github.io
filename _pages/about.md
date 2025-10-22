@@ -83,7 +83,9 @@ redirect_from:
 
 ### 专利
 ---
-- 一种面向学习分析与评测的结构化能力模型构建方法. CN112926901B. 2023.
+- 一种马尔可夫毯优化的可解释知识追踪方法. 申请号：202510184164.2. 2024.
+- 一种板书生成驱动的多模态对话式导学内容生成方法、装置及系统. 申请号：202510287945.4. 2024.
+-  一种面向学习分析与评测的结构化能力模型构建方法. CN112926901B. 2023.
 - 一种考虑试题难度属性的Bayes能力评价算法. CN114065833A. 2022.
 - 一种面向学习分析与评测的结构化能力模型构建方法, CN112926901A, 2021.
 - 一种基于单参数项目反应理论模型的分级评价方法及装置, CN112862368A, 2021.
@@ -93,6 +95,13 @@ redirect_from:
 - `Yuang Wei`, Changyong Qi, Yuan-Hao Jiang, Ling Dai. Enhancing Educational Practices: Strategies for Assessing and Improving Learning Outcomes. Nova Science Publishers, New York, US. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
 - `Yuang Wei`. Gobal Artificial Intelligent Education Support Environment White Paper for K-12. 北京师范大学智慧学习研究院. 2021. [[下载]](https://github.com/PhilrainV/research-paper)
 
+### 软件著作
+- 跨模态数学习题讲解资源自动化生成平台，登记号：2025SR0248269
+- 大语言模型驱动的对话式数学教学软件，登记号：2025SR0248270
+- 基于大语言模型的智能代理驱动的人机对话协作学习平台，登记号：2024SR0764118
+- 可信赖的学习者模糊认知状态评估与预测系统，登记号：2024SR0062350
+- 智能学习系统（管理端），登记号：2021SR0437246
+- 智能学习系统（用户端），登记号：2021SR0437230
 
 
 <span class='anchor' id='ryjx'></span>
@@ -131,4 +140,5 @@ redirect_from:
 # 💻 工作实习
 - *2023.12 - 2024.05*, Nova Science Publish，NewYork, US，特邀编辑
 - *2021.06 - 2021.12*, 互联网教育智能技术及应用国家工程实验室, 北京，研究助理
+
 
