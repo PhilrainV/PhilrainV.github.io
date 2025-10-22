@@ -58,6 +58,8 @@ redirect_from:
 </div>
 </div>
 
+- Angxuan Chen, `Yuang Wei(Corr. Author)`. Learning by teaching with ChatGPT: The effect of teachable ChatGPT agent on programming education. *British Journal of Educational Technology*. 2025. 
+[[网页]](https://doi.org/10.1111/bjet.70001) [[下载]](https://github.com/PhilrainV/research-paper)
 
 - Changyong Qi, Longwei Zheng, `Yuang Wei`, Haoxin Xu, Peiji Chen, Xiaoqing Gu. EduDCM: A Novel Framework for Automatic Educational Dialogue Classification Dataset Construction via Distant Supervision and Large Language Models. *Applied Sciences*. 2024. 
 [[网页]](https://doi.org/10.3390/app15010154) [[下载]](https://github.com/PhilrainV/research-paper)
@@ -96,6 +98,7 @@ redirect_from:
 <span class='anchor' id='ryjx'></span>
 
 # 🏅 荣誉奖项
+- *2025* 国家奖学金
 - *2024* “创青春”中国青年创新创业大赛（科技创新）  `全国铜奖`
 - *2023* “创青春”中国青年创新创业大赛（科技创新）  `优秀奖`
 - *2023* “创青春”中国青年创新创业大赛（数字经济）  `全国铜奖`
@@ -128,3 +131,4 @@ redirect_from:
 # 💻 工作实习
 - *2023.12 - 2024.05*, Nova Science Publish，NewYork, US，特邀编辑
 - *2021.06 - 2021.12*, 互联网教育智能技术及应用国家工程实验室, 北京，研究助理
+
