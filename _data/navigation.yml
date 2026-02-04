@@ -9,11 +9,12 @@ main:
   - title: "期刊论文"
     url: "/#lwzl"
 
+  - title: "学术会议"
+    url: "/#xshy"
+    
   - title: "荣誉奖项"
     url: "/#ryjx"
 
-  - title: "学术会议"
-    url: "/#xshy"
-
   - title: "工作实习"
     url: "/#gzsx"
+
