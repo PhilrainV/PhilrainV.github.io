@@ -73,6 +73,7 @@ redirect_from:
 ### 中文
 ---
 
+- 蒋晨程，`魏雨昂`，吴丽朦. 以生成式 AI 赋能个性化学习:机理、变革与趋势 *江苏高教*. 2025.  [[网页]](https://doi.org/10.13236/j.cnki.jshe.2025.12.008) [[下载]](https://github.com/PhilrainV/research-paper)
 - 江波，章恒远，`魏雨昂`. 如何判定自适应学习系统的有效性——基于因果结构分析框架. *现代远程教育研究*. 2023.  [[网页]](https://doi.org/10.3969/j.issn.1009-5195.2023.02.011) [[下载]](https://github.com/PhilrainV/research-paper)
 - 江波，丁莹雯，`魏雨昂`. 可解释学习者模型:可信个性化学习的技术关键. *现代远程教育研究*. 2023.  
 [[网页]](https://doi.org/10.15881/j.cnki.cn33-1304/g4.2023.02.005) [[下载]](https://github.com/PhilrainV/research-paper)
@@ -83,14 +84,14 @@ redirect_from:
 
 ### 专利
 ---
-- 一种马尔可夫毯优化的可解释知识追踪方法. 申请号：202510184164.2. 2024.
-- 一种板书生成驱动的多模态对话式导学内容生成方法、装置及系统. 申请号：202510287945.4. 2024.
+- 一种马尔可夫毯优化的可解释知识追踪方法. CN120180037A. 2025.
+- 一种板书生成驱动的多模态对话式导学内容生成方法、装置及系统. CN120124641A. 2025.
 -  一种面向学习分析与评测的结构化能力模型构建方法. CN112926901B. 2023.
 - 一种考虑试题难度属性的Bayes能力评价算法. CN114065833A. 2022.
 - 一种面向学习分析与评测的结构化能力模型构建方法, CN112926901A, 2021.
 - 一种基于单参数项目反应理论模型的分级评价方法及装置, CN112862368A, 2021.
 
-### 书
+### 图书
 ---
 - Bo Jiang, `Yuang Wei`. Toward Trustworthy Adaptive Learning: Explainable Learner Models. Taylor & Francis. 2025. [[下载]](http://doi.org/10.4324/9781003585176)
 - `Yuang Wei`, Changyong Qi, Yuan-Hao Jiang, Ling Dai. Enhancing Educational Practices: Strategies for Assessing and Improving Learning Outcomes. Nova Science Publishers, New York, US. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
@@ -122,6 +123,16 @@ redirect_from:
 
 # 🏛️ 学术会议
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/XAI all.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Yuang Wei`, Fei Wang, Yifan Zhang, Brian Lim, Bo Jiang. Beyond Scores: Explainable Intelligent Assessment Strengthens Pre-service Teachers’ Assessment Literacy. *Proceedings of the 2026 CHI Conference on Human
+Factors in Computing Systems*, 2026. 
+[[网页]](https://) [[下载]](https://github.com/PhilrainV/research-paper)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/TMATH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -129,9 +140,10 @@ redirect_from:
 </div>
 </div>
 
+-Rui Jia, `Yuang Wei(Co-first authors)`, Min Zhang, Bo Jiang. DiaCDM: Cognitive Diagnosis in Teacher-Student Dialogues using the Initiation-Response-Evaluation Framework. International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2026. [[PDF]](https://github.com/PhilrainV/research-paper)
 - `Yuang Wei`, Yuan-Hao Jiang, Jiayi Liu, Changyong Qi, Linzhao Jia, Rui Jia. The Advancement of Personalized Learning Potentially Accelerated by Generative AI. Society for Information Technology & Teacher Education International Conference. 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
 - Yuan-Hao Jiang, `Yuang Wei(Corr. Author)`, Xiaobao Shao, Rui Jia, Yizhou Zhou, Zi-Wei Chen. Generative AI in Personalized Learning: Development Trajectory, Educational Applications, and Future Education. Society for Information Technology & Teacher Education International Conference. 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
-- Linzhao Jia, Han Sun, `Yuang Wei`, Changyong Qi, Xiaozhe Yang. EPIC: Error Pattern Informed Correction for Classroom ASR with Limited Labeled Data. ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
+- Linzhao Jia, Han Sun, `Yuang Wei`, Changyong Qi, Xiaozhe Yang. EPIC: Error Pattern Informed Correction for Classroom ASR with Limited Labeled Data. International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
 - Yuan-Hao Jiang, Ruijia Li, `Yuang Wei`, Rui Jia, Xiaobao Shao, Hanglei Hu, Bo Jiang. Synchronizing Verbal Responses and Board Writing for Multimodal Math Instruction with LLMs. *The 4th Workshop on Mathematical Reasoning and AI at NeurIPS'24*. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
 - `Wei Yuang`，Yizhou Zhou，Yuan-Hao Jiang，Bo Jiang. Enhancing Explainability of Knowledge Learning Paths: Causal Knowledge Networks. *The 17th International Conference on Educational Data Mining (EDM)*. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
 - `Wei Yuang`，Xu Jining，Zhang Zehua，Li Zhijun. A Review of the Research on the Prediction of Learning Outcomes in the Field of Learning Analytics, *The 5th International Conference on Education and Multimedia Technology (ICEMT)*, 2021. [[下载]](https://github.com/PhilrainV/research-paper)
@@ -142,6 +154,7 @@ redirect_from:
 # 💻 工作实习
 - *2023.12 - 2024.05*, Nova Science Publish，NewYork, US，特邀编辑
 - *2021.06 - 2021.12*, 互联网教育智能技术及应用国家工程实验室, 北京，研究助理
+
 
 
 
