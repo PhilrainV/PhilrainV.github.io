@@ -80,6 +80,34 @@ redirect_from:
 - 江波，丁莹雯，`魏雨昂`. 教育数字化转型的核心技术引擎：可信教育人工智能. *华东师范大学学报(教育科学版)*. 2023.  
 [[网页]](https://doi.org/10.16382/j.cnki.1000-5560.2023.03.006) [[下载]](https://github.com/PhilrainV/research-paper)
 
+<span class='anchor' id='xshy'></span>
+
+# 🏛️ 学术会议
+---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/XAI all.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Yuang Wei`, Fei Wang, Yifan Zhang, Brian Lim, Bo Jiang. Beyond Scores: Explainable Intelligent Assessment Strengthens Pre-service Teachers’ Assessment Literacy. *Proceedings of the 2026 CHI Conference on Human
+Factors in Computing Systems*, 2026. 
+[[网页]](https://) [[下载]](https://github.com/PhilrainV/research-paper)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/TMATH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+-	Changyong Qi; `Yuang Wei(Co-first authors)`. TMATH: A Dataset for Evaluating Large Language Models in Generating Educational Hints for Math Word Problems. *In Proceedings of the 31st International Conference on Computational Linguistics*, 2025. [[网页]](https://aclanthology.org/2025.coling-main.340/) [[下载]](https://github.com/PhilrainV/research-paper)
+</div>
+</div>
+
+-Rui Jia, `Yuang Wei(Co-first authors)`, Min Zhang, Bo Jiang. DiaCDM: Cognitive Diagnosis in Teacher-Student Dialogues using the Initiation-Response-Evaluation Framework. International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2026. [[PDF]](https://github.com/PhilrainV/research-paper)
+- `Yuang Wei`, Yuan-Hao Jiang, Jiayi Liu, Changyong Qi, Linzhao Jia, Rui Jia. The Advancement of Personalized Learning Potentially Accelerated by Generative AI. Society for Information Technology & Teacher Education International Conference. 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
+- Yuan-Hao Jiang, `Yuang Wei(Corr. Author)`, Xiaobao Shao, Rui Jia, Yizhou Zhou, Zi-Wei Chen. Generative AI in Personalized Learning: Development Trajectory, Educational Applications, and Future Education. Society for Information Technology & Teacher Education International Conference. 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
+- Linzhao Jia, Han Sun, `Yuang Wei`, Changyong Qi, Xiaozhe Yang. EPIC: Error Pattern Informed Correction for Classroom ASR with Limited Labeled Data. International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
+- Yuan-Hao Jiang, Ruijia Li, `Yuang Wei`, Rui Jia, Xiaobao Shao, Hanglei Hu, Bo Jiang. Synchronizing Verbal Responses and Board Writing for Multimodal Math Instruction with LLMs. *The 4th Workshop on Mathematical Reasoning and AI at NeurIPS'24*. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
+- `Wei Yuang`，Yizhou Zhou，Yuan-Hao Jiang，Bo Jiang. Enhancing Explainability of Knowledge Learning Paths: Causal Knowledge Networks. *The 17th International Conference on Educational Data Mining (EDM)*. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
+- `Wei Yuang`，Xu Jining，Zhang Zehua，Li Zhijun. A Review of the Research on the Prediction of Learning Outcomes in the Field of Learning Analytics, *The 5th International Conference on Education and Multimedia Technology (ICEMT)*, 2021. [[下载]](https://github.com/PhilrainV/research-paper)
 
 
 ### 专利
@@ -119,34 +147,6 @@ redirect_from:
 - *2018* 国家励志奖学金
 - *2017* 西门子工业智能挑战赛（工业互联网）  `全国一等奖`
 
-<span class='anchor' id='xshy'></span>
-
-# 🏛️ 学术会议
----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/XAI all.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Yuang Wei`, Fei Wang, Yifan Zhang, Brian Lim, Bo Jiang. Beyond Scores: Explainable Intelligent Assessment Strengthens Pre-service Teachers’ Assessment Literacy. *Proceedings of the 2026 CHI Conference on Human
-Factors in Computing Systems*, 2026. 
-[[网页]](https://) [[下载]](https://github.com/PhilrainV/research-paper)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/TMATH.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
--	Changyong Qi; `Yuang Wei(Co-first authors)`. TMATH: A Dataset for Evaluating Large Language Models in Generating Educational Hints for Math Word Problems. *In Proceedings of the 31st International Conference on Computational Linguistics*, 2025. [[网页]](https://aclanthology.org/2025.coling-main.340/) [[下载]](https://github.com/PhilrainV/research-paper)
-</div>
-</div>
-
--Rui Jia, `Yuang Wei(Co-first authors)`, Min Zhang, Bo Jiang. DiaCDM: Cognitive Diagnosis in Teacher-Student Dialogues using the Initiation-Response-Evaluation Framework. International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2026. [[PDF]](https://github.com/PhilrainV/research-paper)
-- `Yuang Wei`, Yuan-Hao Jiang, Jiayi Liu, Changyong Qi, Linzhao Jia, Rui Jia. The Advancement of Personalized Learning Potentially Accelerated by Generative AI. Society for Information Technology & Teacher Education International Conference. 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
-- Yuan-Hao Jiang, `Yuang Wei(Corr. Author)`, Xiaobao Shao, Rui Jia, Yizhou Zhou, Zi-Wei Chen. Generative AI in Personalized Learning: Development Trajectory, Educational Applications, and Future Education. Society for Information Technology & Teacher Education International Conference. 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
-- Linzhao Jia, Han Sun, `Yuang Wei`, Changyong Qi, Xiaozhe Yang. EPIC: Error Pattern Informed Correction for Classroom ASR with Limited Labeled Data. International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
-- Yuan-Hao Jiang, Ruijia Li, `Yuang Wei`, Rui Jia, Xiaobao Shao, Hanglei Hu, Bo Jiang. Synchronizing Verbal Responses and Board Writing for Multimodal Math Instruction with LLMs. *The 4th Workshop on Mathematical Reasoning and AI at NeurIPS'24*. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
-- `Wei Yuang`，Yizhou Zhou，Yuan-Hao Jiang，Bo Jiang. Enhancing Explainability of Knowledge Learning Paths: Causal Knowledge Networks. *The 17th International Conference on Educational Data Mining (EDM)*. 2024. [[下载]](https://github.com/PhilrainV/research-paper)
-- `Wei Yuang`，Xu Jining，Zhang Zehua，Li Zhijun. A Review of the Research on the Prediction of Learning Outcomes in the Field of Learning Analytics, *The 5th International Conference on Education and Multimedia Technology (ICEMT)*, 2021. [[下载]](https://github.com/PhilrainV/research-paper)
 
 
 <span class='anchor' id='gzsx'></span>
@@ -154,6 +154,7 @@ Factors in Computing Systems*, 2026.
 # 💻 工作实习
 - *2023.12 - 2024.05*, Nova Science Publish，NewYork, US，特邀编辑
 - *2021.06 - 2021.12*, 互联网教育智能技术及应用国家工程实验室, 北京，研究助理
+
 
 
 
