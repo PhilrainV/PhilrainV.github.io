@@ -101,7 +101,7 @@ Factors in Computing Systems*, 2026.
 </div>
 </div>
 
--Rui Jia, `Yuang Wei(Co-first authors)`, Min Zhang, Bo Jiang. DiaCDM: Cognitive Diagnosis in Teacher-Student Dialogues using the Initiation-Response-Evaluation Framework. International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2026. [[PDF]](https://github.com/PhilrainV/research-paper)
+- Rui Jia, `Yuang Wei(Co-first authors)`, Min Zhang, Bo Jiang. DiaCDM: Cognitive Diagnosis in Teacher-Student Dialogues using the Initiation-Response-Evaluation Framework. International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2026. [[PDF]](https://github.com/PhilrainV/research-paper)
 - `Yuang Wei`, Yuan-Hao Jiang, Jiayi Liu, Changyong Qi, Linzhao Jia, Rui Jia. The Advancement of Personalized Learning Potentially Accelerated by Generative AI. Society for Information Technology & Teacher Education International Conference. 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
 - Yuan-Hao Jiang, `Yuang Wei(Corr. Author)`, Xiaobao Shao, Rui Jia, Yizhou Zhou, Zi-Wei Chen. Generative AI in Personalized Learning: Development Trajectory, Educational Applications, and Future Education. Society for Information Technology & Teacher Education International Conference. 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
 - Linzhao Jia, Han Sun, `Yuang Wei`, Changyong Qi, Xiaozhe Yang. EPIC: Error Pattern Informed Correction for Classroom ASR with Limited Labeled Data. International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2025. [[PDF]](https://github.com/PhilrainV/research-paper)
@@ -154,6 +154,7 @@ Factors in Computing Systems*, 2026.
 # 💻 工作实习
 - *2023.12 - 2024.05*, Nova Science Publish，NewYork, US，特邀编辑
 - *2021.06 - 2021.12*, 互联网教育智能技术及应用国家工程实验室, 北京，研究助理
+
 
 
 
