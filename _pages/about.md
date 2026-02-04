@@ -94,7 +94,7 @@ Factors in Computing Systems*, 2026.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/TMATH.png' alt="sym" width="100%" height="160px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/TMATH.png' alt="sym" width="100%" height="50px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 -	Changyong Qi; `Yuang Wei(Co-first authors)`. TMATH: A Dataset for Evaluating Large Language Models in Generating Educational Hints for Math Word Problems. *In Proceedings of the 31st International Conference on Computational Linguistics*, 2025. [[网页]](https://aclanthology.org/2025.coling-main.340/) [[下载]](https://github.com/PhilrainV/research-paper)
@@ -154,6 +154,7 @@ Factors in Computing Systems*, 2026.
 # 💻 工作实习
 - *2023.12 - 2024.05*, Nova Science Publish，NewYork, US，特邀编辑
 - *2021.06 - 2021.12*, 互联网教育智能技术及应用国家工程实验室, 北京，研究助理
+
 
 
 
