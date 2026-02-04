@@ -19,7 +19,7 @@ redirect_from:
 
 # 🔍 AI FOR EDUCATION！
 
-我将博士毕业于中国上海的**华东师范大学**计算机科学与技术学院智能教育专业，我的导师是**江波**教授。目前我正在进行一些非常有趣且有意义的智能教育研究，目前已发表 20+ 篇学术论文（包含合作）
+我将博士毕业于中国上海的**华东师范大学**上海智能教育研究院智能教育专业，我的导师是**江波**教授。目前我正在进行一些非常有趣且有意义的智能教育研究，目前已发表 20+ 篇学术论文（包含合作）
  <a href='https://scholar.google.com.hk/citations?user=jjXw5-4AAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。担任期刊Computer&Education，Education and information technologies，Information processing and management，IEEE Transactions on Emerging Topics in Computing，International Journal of Artificial Intelligence in Education，Knowledge-Based Systems，Humanities & Social Sciences Communications，会议NeurIPS，AAAI，KDD，ICASSP，AIED，EDM审稿人。如果您对我的研究有兴趣，请随时联系我！我们一起搞研究、发Paper！
 
 我的研究领域包括：
@@ -30,7 +30,7 @@ redirect_from:
 <span class='anchor' id='xl'></span>
 
 # 🎓 教育经历
-- *2022.06 - 今*, <a href="https://aiedu.ecnu.edu.cn/"><img class="png" src="/images/ECNU_logo.png" width="23pt"></a> 华东师范大学，计算机科学与技术学院（智能教育），上海，博士 (导师: [[江波]](https://faculty.ecnu.edu.cn/_s8/jb2/main.psp))
+- *2022.06 - 今*, <a href="https://aiedu.ecnu.edu.cn/"><img class="png" src="/images/ECNU_logo.png" width="23pt"></a> 华东师范大学，上海智能教育研究院（智能教育），上海，博士 (导师: [[江波]](https://faculty.ecnu.edu.cn/_s8/jb2/main.psp))
 - *2024.09 - 2025.09*, <a href="https://ubiquitous.comp.nus.edu.sg/"><img class="png" src="/images/NUS_logo.png" width="23pt"></a> 新加坡国立大学，计算机科学系（人机交互），新加坡，CSC博士 (导师: [[Brian Lim]](https://ubiquitous.comp.nus.edu.sg/))  
 - *2015.09 - 2022.06*, <a href="https://dqgc.ncut.edu.cn/"><img class="png" src="/images/NCUT_logo.png" width="20pt"></a> 北方工业大学，电气与控制工程学院（自动化、控制科学与工程），北京，本硕 (导师: 徐继宁)
 
@@ -84,7 +84,7 @@ redirect_from:
 
 # 🏛️ 学术会议
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/XAI all.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/XIA all.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yuang Wei`, Fei Wang, Yifan Zhang, Brian Lim, Bo Jiang. Beyond Scores: Explainable Intelligent Assessment Strengthens Pre-service Teachers’ Assessment Literacy. *Proceedings of the 2026 CHI Conference on Human
@@ -154,6 +154,7 @@ Factors in Computing Systems*, 2026.
 # 💻 工作实习
 - *2023.12 - 2024.05*, Nova Science Publish，NewYork, US，特邀编辑
 - *2021.06 - 2021.12*, 互联网教育智能技术及应用国家工程实验室, 北京，研究助理
+
 
 
 
