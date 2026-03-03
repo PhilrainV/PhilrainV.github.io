@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "魏雨昂"
-  avatar           : "images/weiyuang1.jpg"
+  avatar           : "images/weiyuang1.png"
   bio              : "华东师范大学"
   location         : "上海"
   employer         : 
@@ -163,4 +163,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
