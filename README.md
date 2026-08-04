@@ -7,13 +7,14 @@
 以后新增或修改成果，只需编辑仓库根目录的 `content/`：
 
 - `content/publications.js`：论文
+- `content/profile.js`：个人简介、研究领域、邮箱、单位、头像与学术链接
 - `content/books.js`：图书
 - `content/patents.js`：发明专利
 - `content/software-copyrights.js`：软件著作权
 - `content/honors.js`：荣誉奖项
 - `content/experience.js`：工作经历
 
-修改后直接提交到 `master`，主页会读取这些独立文件，无需重新打包。详细字段和新增论文示例见 [content/README.md](content/README.md)。
+修改后直接提交到 `master`，主页会读取这些独立文件，无需重新打包。详细字段、个人信息修改说明和新增论文示例见 [content/README.md](content/README.md)。
 
 新增论文配图时，将图片上传到 `images/`，再在论文条目中填写 `image: "/images/文件名"`。
 

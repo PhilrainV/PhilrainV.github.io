@@ -16,13 +16,12 @@ import {
   experience,
   honors,
   patents,
+  profile,
   publications,
   softwareCopyrights,
   type PublicationGroup,
 } from "./content";
 
-const scholarUrl =
-  "https://scholar.google.com/citations?hl=zh-CN&user=jjXw5-4AAAAJ";
 const visitorApiUrl =
   "https://yuang-wei-academic.philrain-cs.chatgpt.site/api/visitors";
 const scholarStatsUrl =
@@ -36,15 +35,6 @@ const navigation = [
   ["荣誉奖项", "honors"],
   ["工作经历", "experience"],
 ] as const;
-
-const interests = [
-  "智能教育",
-  "可解释人工智能",
-  "因果模型",
-  "知识追踪",
-  "认知诊断",
-  "大语言模型",
-];
 
 type VisitorCountry = {
   code: string;
@@ -296,12 +286,11 @@ export default function Home() {
   }, [paperFilter]);
 
   async function copyEmail() {
-    const email = "philrain@foxmail.com";
     try {
-      await navigator.clipboard.writeText(email);
+      await navigator.clipboard.writeText(profile.email);
     } catch {
       const helper = document.createElement("textarea");
-      helper.value = email;
+      helper.value = profile.email;
       helper.style.position = "fixed";
       helper.style.opacity = "0";
       document.body.appendChild(helper);
@@ -318,7 +307,7 @@ export default function Home() {
       <header className="site-header">
         <div className="header-inner">
           <a className="site-title" href="#about" aria-label="返回页面顶部">
-            魏雨昂
+            {profile.name}
           </a>
           <button
             className="menu-button"
@@ -358,45 +347,50 @@ export default function Home() {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             className="portrait"
-            src="/images/weiyuang.png"
-            alt="魏雨昂的个人照片"
+            src={profile.avatar}
+            alt={profile.avatarAlt}
           />
           <div className="profile-intro">
-            <h1>魏雨昂</h1>
-            <p className="position">华中师范大学人工智能教育学部 · 讲师</p>
+            <h1>{profile.name}</h1>
+            <p className="position">
+              {profile.affiliation} · {profile.title}
+            </p>
           </div>
 
           <div className="contact-list">
             <div className="contact-location">
               <FaMapMarkerAlt className="contact-icon" aria-hidden="true" />
-              武汉，中国
+              {profile.location}
             </div>
             <button type="button" onClick={copyEmail}>
               <FaEnvelope className="contact-icon" aria-hidden="true" />
-              {emailCopied ? "邮箱已复制" : "philrain@foxmail.com"}
+              {emailCopied ? "邮箱已复制" : profile.email}
             </button>
-            <ExternalLink href="https://www.researchgate.net/profile/Yuang-Wei">
+            <ExternalLink href={profile.links.researchGate}>
               <FaResearchgate className="contact-icon" aria-hidden="true" />
               ResearchGate
             </ExternalLink>
-            <ExternalLink href="https://github.com/PhilrainV">
+            <ExternalLink href={profile.links.github}>
               <FaGithub className="contact-icon" aria-hidden="true" />
               GitHub
             </ExternalLink>
-            <ExternalLink href={scholarUrl}>
+            <ExternalLink href={profile.links.googleScholar}>
               <FaGraduationCap
                 className="contact-icon scholar-mark"
                 aria-hidden="true"
               />
               Google Scholar
             </ExternalLink>
-            <ExternalLink href="https://orcid.org/0000-0002-8187-4011">
+            <ExternalLink href={profile.links.orcid}>
               <SiOrcid className="contact-icon" aria-hidden="true" />
               ORCID
             </ExternalLink>
           </div>
 
-          <ExternalLink href={scholarUrl} className="scholar-card">
+          <ExternalLink
+            href={profile.links.googleScholar}
+            className="scholar-card"
+          >
             <div className="scholar-card-title">
               <span>
                 <FaGraduationCap aria-hidden="true" /> Google Scholar
@@ -433,44 +427,24 @@ export default function Home() {
           >
             <SectionHeading id="about">个人简介</SectionHeading>
             <div className="intro-text">
-              <p>
-                我博士毕业于中国上海的
-                <strong>华东师范大学上海智能教育研究院</strong>
-                智能教育专业，导师为
-                <ExternalLink href="https://faculty.ecnu.edu.cn/_s8/jb2/main.psp">
-                  江波教授
-                </ExternalLink>
-                。现任华中师范大学人工智能教育学部讲师，正在开展一些有趣且有意义的智能教育研究，已发表
-                20+ 篇学术论文（包含合作）。
-              </p>
-              <p>
-                担任 <em>Computers & Education</em>、
-                <em>Education and Information Technologies</em>、
-                <em>Information Processing & Management</em>、
-                <em>IEEE Transactions on Emerging Topics in Computing</em>、
-                <em>
-                  International Journal of Artificial Intelligence in Education
-                </em>
-                、<em>Knowledge-Based Systems</em>、
-                <em>Humanities & Social Sciences Communications</em>{" "}
-                等期刊，以及 NeurIPS、AAAI、KDD、ICASSP、AIED、EDM
-                等会议审稿人。
-              </p>
-              <p>
-                如果您对我的研究感兴趣，欢迎随时联系我！我们一起开展研究、发表论文。
-              </p>
+              {profile.bio.map((paragraph) => (
+                <p key={paragraph}>{paragraph}</p>
+              ))}
             </div>
             <div className="research-row">
               <strong>研究领域</strong>
               <div>
-                {interests.map((interest) => (
+                {profile.researchInterests.map((interest) => (
                   <span key={interest}>{interest}</span>
                 ))}
               </div>
             </div>
           </section>
 
-          <section className="content-section" aria-labelledby="education">
+          <section
+            className="content-section education-section"
+            aria-labelledby="education"
+          >
             <SectionHeading id="education">教育经历</SectionHeading>
             <div className="education-list">
               <article className="education-item">
