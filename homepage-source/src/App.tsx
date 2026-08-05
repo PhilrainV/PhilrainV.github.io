@@ -13,6 +13,7 @@ import {
 import { SiOrcid } from "react-icons/si";
 import {
   books,
+  education,
   experience,
   honors,
   patents,
@@ -447,81 +448,44 @@ export default function Home() {
           >
             <SectionHeading id="education">教育经历</SectionHeading>
             <div className="education-list">
-              <article className="education-item">
-                <ExternalLink
-                  href="https://aiedu.ecnu.edu.cn/"
-                  className="school-logo-link"
+              {education.map((item) => (
+                <article
+                  className="education-item"
+                  key={`${item.period}-${item.institution}`}
                 >
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src="/images/ECNU_logo.png" alt="华东师范大学校徽" />
-                </ExternalLink>
-                <div className="education-time">2022.06 — 2026.06</div>
-                <div className="education-body">
-                  <h3>
-                    <ExternalLink href="https://aiedu.ecnu.edu.cn/">
-                      华东师范大学
-                    </ExternalLink>
-                  </h3>
-                  <p>上海智能教育研究院 · 智能教育 · 博士</p>
-                  <p className="education-note">
-                    导师：
-                    <ExternalLink href="https://faculty.ecnu.edu.cn/_s8/jb2/main.psp">
-                      江波教授
-                    </ExternalLink>
-                    <span>上海</span>
-                  </p>
-                </div>
-              </article>
-              <article className="education-item">
-                <ExternalLink
-                  href="https://www.comp.nus.edu.sg/cs/"
-                  className="school-logo-link"
-                >
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src="/images/NUS_logo.png" alt="新加坡国立大学校徽" />
-                </ExternalLink>
-                <div className="education-time">2024.09 — 2025.09</div>
-                <div className="education-body">
-                  <h3>
-                    <ExternalLink href="https://www.comp.nus.edu.sg/cs/">
-                      新加坡国立大学
-                    </ExternalLink>
-                  </h3>
-                  <p>计算机科学系 · 人机交互 · CSC 联合培养博士</p>
-                  <p className="education-note">
-                    导师：
-                    <ExternalLink href="https://www.comp.nus.edu.sg/cs/people/brianlim/">
-                      Brian Y. Lim 副教授
-                    </ExternalLink>
-                    <span>新加坡</span>
-                  </p>
-                </div>
-              </article>
-              <article className="education-item">
-                <ExternalLink
-                  href="https://dqgc.ncut.edu.cn/"
-                  className="school-logo-link"
-                >
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src="/images/NCUT_logo.png" alt="北方工业大学校徽" />
-                </ExternalLink>
-                <div className="education-time">2015.09 — 2022.06</div>
-                <div className="education-body">
-                  <h3>
-                    <ExternalLink href="https://dqgc.ncut.edu.cn/">
-                      北方工业大学
-                    </ExternalLink>
-                  </h3>
-                  <p>电气与控制工程学院 · 自动化学士、控制科学与工程硕士</p>
-                  <p className="education-note">
-                    导师：
-                    <ExternalLink href="https://dqgc.ncut.edu.cn/info/1228/3137.htm">
-                      徐继宁副教授
-                    </ExternalLink>
-                    <span>北京</span>
-                  </p>
-                </div>
-              </article>
+                  <ExternalLink
+                    href={item.institutionUrl}
+                    className="school-logo-link"
+                  >
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={item.logo} alt={item.logoAlt} />
+                  </ExternalLink>
+                  <div className="education-time">{item.period}</div>
+                  <div className="education-body">
+                    <h3>
+                      <ExternalLink href={item.institutionUrl}>
+                        {item.institution}
+                      </ExternalLink>
+                    </h3>
+                    <p>{item.program}</p>
+                    <p className="education-note">
+                      {item.supervisor && (
+                        <>
+                          导师：
+                          {item.supervisorUrl ? (
+                            <ExternalLink href={item.supervisorUrl}>
+                              {item.supervisor}
+                            </ExternalLink>
+                          ) : (
+                            item.supervisor
+                          )}
+                        </>
+                      )}
+                      <span>{item.location}</span>
+                    </p>
+                  </div>
+                </article>
+              ))}
             </div>
           </section>
 

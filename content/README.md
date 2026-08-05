@@ -4,6 +4,7 @@
 
 - `publications.js`：论文
 - `profile.js`：姓名、职务、单位、头像、邮箱、简介、研究领域及学术链接
+- `education.js`：教育经历、学校链接、校徽、学位、导师及地点
 - `books.js`：图书
 - `patents.js`：发明专利
 - `software-copyrights.js`：软件著作权
@@ -43,3 +44,16 @@
 - `links`：ResearchGate、GitHub、Google Scholar 和 ORCID 链接
 
 修改文字或链接后直接提交即可；不要删除字段名或最外层的大括号。
+
+## 修改教育经历
+
+所有教育经历都集中在 `education.js`。每个 `{ ... },` 条目对应一所学校或一段学习经历：
+
+- `period`：起止时间
+- `institution`、`institutionUrl`：学校名称与官网
+- `program`：院系、专业及学位说明
+- `logo`、`logoAlt`：校徽路径与替代文字
+- `supervisor`、`supervisorUrl`：导师姓名与主页；没有导师时可删除这两个字段
+- `location`：城市或国家/地区
+
+新增经历时复制一个完整条目并修改。校徽请先上传到 `images/`，再填写图片路径。

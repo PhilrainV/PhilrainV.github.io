@@ -8,6 +8,7 @@
 
 - `content/publications.js`：论文
 - `content/profile.js`：个人简介、研究领域、邮箱、单位、头像与学术链接
+- `content/education.js`：教育经历、学校链接、校徽、学位、导师与地点
 - `content/books.js`：图书
 - `content/patents.js`：发明专利
 - `content/software-copyrights.js`：软件著作权
