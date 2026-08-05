@@ -6,7 +6,7 @@ window.YUANG_WEI_CONTENT.education = [
     period: "2022.06 — 2026.06",
     institution: "华东师范大学",
     institutionUrl: "https://aiedu.ecnu.edu.cn/",
-    program: "上海智能教育研究院 · 智能教育 · 博士",
+    program: "上海智能教育研究院 · 计算机科学与技术（智能教育） · 博士",
     logo: "/images/ECNU_logo.png",
     logoAlt: "华东师范大学校徽",
     supervisor: "江波教授",
