@@ -10,7 +10,7 @@ window.YUANG_WEI_CONTENT.profile = {
   avatar: "/images/weiyuang.png",
   avatarAlt: "魏雨昂的个人照片",
   location: "武汉，中国",
-  email: "philrain@foxmail.com",
+  email: "philrain.cs@gmail.com",
 
   bio: [
         "我毕业于华东师范大学上海智能教育研究院智能教育专业，获博士学位，师从江波教授。现任华中师范大学人工智能教育学部讲师，主要从事学习者建模、教育大语言模型、因果建模与可解释教育人工智能研究，已发表学术论文 20 余篇。",
