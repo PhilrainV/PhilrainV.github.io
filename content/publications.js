@@ -60,7 +60,7 @@ window.YUANG_WEI_CONTENT.publications = [
     title:
       "Unveiling the Impact of Hierarchical Knowledge Dependencies on Knowledge Tracing: A Spatial Structure Perspective",
     authors:
-      "Yuang Weia, Rui Jia, Yingwen Ding, Bo Jiang",
+      "Yuang Wei, Rui Jia, Yingwen Ding, Bo Jiang",
     publication: "Frontiers of Digital Education",
     webpage: "https://doi.org/10.1007/s44366-026-0097-8",
     download: "https://github.com/PhilrainV/research-paper",
