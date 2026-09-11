@@ -54,6 +54,18 @@ window.YUANG_WEI_CONTENT.publications = [
     image: "/images/ipm-2024.jpg",
   },
   {
+    year: 2026,
+    group: "英文期刊论文",
+    venue: "Frontiers of Digital Education",
+    title:
+      "Unveiling the Impact of Hierarchical Knowledge Dependencies on Knowledge Tracing: A Spatial Structure Perspective",
+    authors:
+      "Yuang Weia, Rui Jia, Yingwen Ding, Bo Jiang",
+    publication: "Frontiers of Digital Education",
+    webpage: "https://doi.org/10.1007/s44366-026-0097-8",
+    download: "https://github.com/PhilrainV/research-paper",
+  },
+  {
     year: 2024,
     group: "英文期刊论文",
     venue: "Applied Sciences",
