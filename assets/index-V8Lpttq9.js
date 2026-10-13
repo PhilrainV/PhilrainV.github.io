@@ -19,7 +19,7 @@ import {
         for (const i of o.addedNodes)
           i.tagName === "LINK" && i.rel === "modulepreload" && j(i);
   }).observe(document, { childList: !0, subtree: !0 });
-  function c(t) {
+  function l(t) {
     const o = {};
     return (
       t.integrity && (o.integrity = t.integrity),
@@ -35,7 +35,7 @@ import {
   function j(t) {
     if (t.ep) return;
     t.ep = !0;
-    const o = c(t);
+    const o = l(t);
     fetch(t.href, o);
   }
 })();
@@ -44,7 +44,7 @@ function g(a) {
   return Array.isArray(a) ? a : [];
 }
 const L = g(p.publications),
-  l = p.profile,
+  c = p.profile,
   O = g(p.education),
   A = g(p.books),
   P = g(p.patents),
@@ -65,23 +65,23 @@ const L = g(p.publications),
 function f({ text: a }) {
   const d = a.split(/(Yuang Wei|Yu’ang Wei|Wei Yuang|魏雨昂)/g);
   return e.jsx(e.Fragment, {
-    children: d.map((c, j) =>
-      /^(Yuang Wei|Yu’ang Wei|Wei Yuang|魏雨昂)$/.test(c)
+    children: d.map((l, j) =>
+      /^(Yuang Wei|Yu’ang Wei|Wei Yuang|魏雨昂)$/.test(l)
         ? e.jsx(
             "strong",
-            { className: "author-self", children: c },
-            `${c}-${j}`,
+            { className: "author-self", children: l },
+            `${l}-${j}`,
           )
-        : e.jsx("span", { children: c }, `${c}-${j}`),
+        : e.jsx("span", { children: l }, `${l}-${j}`),
     ),
   });
 }
 function m({ id: a, children: d }) {
   return e.jsx("h2", { className: "section-heading", id: a, children: d });
 }
-function h({ href: a, children: d, className: c = "" }) {
+function h({ href: a, children: d, className: l = "" }) {
   return e.jsx("a", {
-    className: c,
+    className: l,
     href: a,
     target: "_blank",
     rel: "noreferrer",
@@ -90,7 +90,7 @@ function h({ href: a, children: d, className: c = "" }) {
 }
 function B() {
   const [a, d] = x.useState(null),
-    [c, j] = x.useState(!1);
+    [l, j] = x.useState(!1);
   x.useEffect(() => {
     let i = !0;
     async function u() {
@@ -178,7 +178,7 @@ function B() {
             ],
           }),
           e.jsx("h3", { children: "最近访客" }),
-          c
+          l
             ? e.jsx("p", {
                 className: "visitor-empty",
                 children: "访客统计暂时不可用。",
@@ -222,14 +222,9 @@ function B() {
 }
 function I() {
   const [a, d] = x.useState(!1),
-    [c, j] = x.useState("全部"),
+    [l, j] = x.useState("全部"),
     [t, o] = x.useState(!1),
-    [i, u] = x.useState({
-      citedby: null,
-      hindex: null,
-      i10index: null,
-      updated: void 0,
-    });
+    [i, u] = x.useState({ citedby: null, hindex: null, i10index: null });
   x.useEffect(() => {
     let s = !0;
     return (
@@ -258,18 +253,18 @@ function I() {
       ["英文期刊论文", "中文期刊论文", "学术会议论文"]
         .filter(
           (r) =>
-            c === "全部" ||
-            (c === "期刊" ? r !== "学术会议论文" : r === "学术会议论文"),
+            l === "全部" ||
+            (l === "期刊" ? r !== "学术会议论文" : r === "学术会议论文"),
         )
         .map((r) => ({ group: r, papers: L.filter((n) => n.group === r) })),
-    [c],
+    [l],
   );
   async function v() {
     try {
-      await navigator.clipboard.writeText(l.email);
+      await navigator.clipboard.writeText(c.email);
     } catch {
       const s = document.createElement("textarea");
-      ((s.value = l.email),
+      ((s.value = c.email),
         (s.style.position = "fixed"),
         (s.style.opacity = "0"),
         document.body.appendChild(s),
@@ -290,7 +285,7 @@ function I() {
               className: "site-title",
               href: "#about",
               "aria-label": "返回页面顶部",
-              children: l.name,
+              children: c.name,
             }),
             e.jsxs("button", {
               className: "menu-button",
@@ -336,16 +331,16 @@ function I() {
             children: [
               e.jsx("img", {
                 className: "portrait",
-                src: l.avatar,
-                alt: l.avatarAlt,
+                src: c.avatar,
+                alt: c.avatarAlt,
               }),
               e.jsxs("div", {
                 className: "profile-intro",
                 children: [
-                  e.jsx("h1", { children: l.name }),
+                  e.jsx("h1", { children: c.name }),
                   e.jsxs("p", {
                     className: "position",
-                    children: [l.affiliation, " · ", l.title],
+                    children: [c.affiliation, " · ", c.title],
                   }),
                 ],
               }),
@@ -359,7 +354,7 @@ function I() {
                         className: "contact-icon",
                         "aria-hidden": "true",
                       }),
-                      l.location,
+                      c.location,
                     ],
                   }),
                   e.jsxs("button", {
@@ -370,11 +365,11 @@ function I() {
                         className: "contact-icon",
                         "aria-hidden": "true",
                       }),
-                      t ? "邮箱已复制" : l.email,
+                      t ? "邮箱已复制" : c.email,
                     ],
                   }),
                   e.jsxs(h, {
-                    href: l.links.researchGate,
+                    href: c.links.researchGate,
                     children: [
                       e.jsx(C, {
                         className: "contact-icon",
@@ -384,7 +379,7 @@ function I() {
                     ],
                   }),
                   e.jsxs(h, {
-                    href: l.links.github,
+                    href: c.links.github,
                     children: [
                       e.jsx(F, {
                         className: "contact-icon",
@@ -394,7 +389,7 @@ function I() {
                     ],
                   }),
                   e.jsxs(h, {
-                    href: l.links.googleScholar,
+                    href: c.links.googleScholar,
                     children: [
                       e.jsx(y, {
                         className: "contact-icon scholar-mark",
@@ -404,7 +399,7 @@ function I() {
                     ],
                   }),
                   e.jsxs(h, {
-                    href: l.links.orcid,
+                    href: c.links.orcid,
                     children: [
                       e.jsx(M, {
                         className: "contact-icon",
@@ -416,7 +411,7 @@ function I() {
                 ],
               }),
               e.jsxs(h, {
-                href: l.links.googleScholar,
+                href: c.links.googleScholar,
                 className: "scholar-card",
                 children: [
                   e.jsxs("div", {
@@ -476,14 +471,14 @@ function I() {
                   e.jsx(m, { id: "about", children: "个人简介" }),
                   e.jsx("div", {
                     className: "intro-text",
-                    children: l.bio.map((s) => e.jsx("p", { children: s }, s)),
+                    children: c.bio.map((s) => e.jsx("p", { children: s }, s)),
                   }),
                   e.jsxs("div", {
                     className: "research-row",
                     children: [
                       e.jsx("strong", { children: "研究领域" }),
                       e.jsx("div", {
-                        children: l.researchInterests.map((s) =>
+                        children: c.researchInterests.map((s) =>
                           e.jsx("span", { children: s }, s),
                         ),
                       }),
@@ -570,8 +565,8 @@ function I() {
                             "button",
                             {
                               type: "button",
-                              className: c === s ? "is-active" : "",
-                              "aria-pressed": c === s,
+                              className: l === s ? "is-active" : "",
+                              "aria-pressed": l === s,
                               onClick: () => j(s),
                               children: s,
                             },
