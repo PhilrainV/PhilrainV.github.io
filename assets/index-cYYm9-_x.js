@@ -225,10 +225,10 @@ function I() {
     [c, j] = x.useState("全部"),
     [t, o] = x.useState(!1),
     [i, u] = x.useState({
-      citedby: 330,
-      hindex: 11,
-      i10index: 12,
-      updated: "2026-08-02",
+      citedby: null,
+      hindex: null,
+      i10index: null,
+      updated: void 0,
     });
   x.useEffect(() => {
     let s = !0;
@@ -436,19 +436,19 @@ function I() {
                     children: [
                       e.jsxs("div", {
                         children: [
-                          e.jsx("strong", { children: i.citedby }),
+                          e.jsx("strong", { children: i.citedby ?? "—" }),
                           e.jsx("span", { children: "引用" }),
                         ],
                       }),
                       e.jsxs("div", {
                         children: [
-                          e.jsx("strong", { children: i.hindex }),
+                          e.jsx("strong", { children: i.hindex ?? "—" }),
                           e.jsx("span", { children: "h 指数" }),
                         ],
                       }),
                       e.jsxs("div", {
                         children: [
-                          e.jsx("strong", { children: i.i10index }),
+                          e.jsx("strong", { children: i.i10index ?? "—" }),
                           e.jsx("span", { children: "i10 指数" }),
                         ],
                       }),
