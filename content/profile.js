@@ -13,8 +13,8 @@ window.YUANG_WEI_CONTENT.profile = {
   email: "philrain.cs@gmail.com",
 
   bio: [
-        "我毕业于华东师范大学上海智能教育研究院智能教育专业，获博士学位，师从江波教授。现任华中师范大学人工智能教育学部讲师，主要从事学习者建模、教育大语言模型、因果建模与可解释教育人工智能研究，已发表学术论文 20 余篇。",
-        "担任 Computers & Education、Education and Information Technologies、Information Processing & Management、IEEE Transactions on Emerging Topics in Computing、International Journal of Artificial Intelligence in Education、Knowledge-Based Systems、Humanities & Social Sciences Communications 等期刊审稿人，并为 NeurIPS、AAAI、KDD、ICASSP、AIED、EDM 等国际会议提供审稿服务。",
+        "我毕业于华东师范大学上海智能教育研究院智能教育专业，获计算机科学与技术博士学位，师从江波教授。现任华中师范大学人工智能教育学部讲师，主要从事学习者建模、教育大语言模型、因果建模与可解释教育人工智能研究，已发表学术论文 20 余篇。",
+        "担任 Computers & Education、Education and Information Technologies、Information Processing & Management、IEEE Transactions on Emerging Topics in Computing、International Journal of Artificial Intelligence in Education、Knowledge-Based Systems、Humanities & Social Sciences Communications 等期刊审稿人，并为 NeurIPS、CHI、AAAI、KDD、ICASSP、AIED、EDM 等国际会议提供审稿服务。",
         "欢迎关注我的研究工作。如果您对相关研究方向感兴趣，期待与您交流，并探索进一步合作的可能。",
   ],
 
